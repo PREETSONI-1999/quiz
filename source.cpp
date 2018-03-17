@@ -1,9 +1,10 @@
+//code for making a QUIZ
 #include<iostream>
 
 using namespace std;
 int counter =0;
 int check (int a,int ca)
-{
+{ 
 	  
 	if (a==ca)
 	counter++;
